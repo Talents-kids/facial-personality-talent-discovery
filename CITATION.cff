@@ -1,0 +1,85 @@
+cff-version: 1.2.0
+type: dataset
+title: "Deep Research Engine: Multi-LLM Talent Discovery from Facial Personality Analysis - Complete Analysis Repository"
+authors:
+  - family-names: "Sergeev"
+    given-names: "Dmitriy"
+    affiliation: "Talents.Kids, TEMNIKOVA LDA, Lisbon, Portugal"
+    email: "ds@talents.kids"
+    orcid: "https://orcid.org/0009-0008-2958-4595"
+
+date-released: 2026-01-16
+version: "1.0.0"
+doi: "10.5281/zenodo.00000000"  # Replace with actual Zenodo DOI
+
+description: |
+  Complete research materials for manuscript submitted to Frontiers in Psychology.
+
+  This repository contains:
+  - Anonymized datasets (N=250 human expert baseline, N=428 equal-feature baseline)
+  - Python scripts for figure reproduction
+  - Interactive Jupyter notebooks for analysis
+  - Publication-quality figures (Figures 2-3, Supplementary S1-S4)
+  - Statistical analysis code and results tables (Tables 4-5)
+
+repository-code: "https://github.com/talents-kids/frontiers-facial-personality-analysis"
+repository: "https://github.com/talents-kids/frontiers-facial-personality-analysis"
+
+keywords:
+  - "artificial intelligence"
+  - "facial analysis"
+  - "personality prediction"
+  - "talent discovery"
+  - "child development"
+  - "multi-agent LLM"
+  - "psychological assessment"
+
+license: "CC-BY-4.0"
+
+references:
+  - type: article
+    title: "TALENT LLM: Fine-Tuned Large Language Models for Talent Prediction"
+    authors:
+      - family-names: "Sergeev"
+        given-names: "Dmitriy"
+    year: 2025
+    doi: "10.5281/zenodo.17743456"
+    repository: "https://github.com/talents-kids/talent-llm"
+    notes: "Previous work on LLM-based talent prediction"
+
+  - type: article
+    title: "Deep Research Engine: Multi-LLM Talent Discovery (TiCS Submission)"
+    authors:
+      - family-names: "Sergeev"
+        given-names: "Dmitriy"
+    year: 2025
+    doi: "10.5281/zenodo.17849535"
+    notes: "TiCS journal submission on deep research methodology"
+
+  - type: article
+    title: "Multimodal Talent Discovery in Children Using Calibrated Baselines"
+    authors:
+      - family-names: "Sergeev"
+        given-names: "Dmitriy"
+    year: 2025
+    journal: "iScience (preprint)"
+    doi: "10.5281/zenodo.17941256"
+    repository: "https://github.com/talents-kids/calibrated-talent-assessment"
+    notes: "EdArXiv preprint: https://osf.io/preprints/edarxiv/3jrm4_v1"
+
+contact:
+  - family-names: "Sergeev"
+    given-names: "Dmitriy"
+    affiliation: "Talents.Kids"
+    email: "ds@talents.kids"
+    website: "https://talents.kids"
+
+preferred-citation:
+  type: article
+  title: "Deep Research Engine: Multi-LLM Talent Discovery from Facial Personality Analysis"
+  authors:
+    - family-names: "Sergeev"
+      given-names: "Dmitriy"
+  journal: "Frontiers in Psychology"
+  year: 2026
+  notes: "Submitted"
