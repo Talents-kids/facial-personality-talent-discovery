@@ -1,9 +1,10 @@
 # Deep Research Engine: Multi-LLM Talent Discovery from Facial Personality Analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18500157.svg)](https://doi.org/10.5281/zenodo.18500157)
 [![License](https://img.shields.io/badge/License-CC--BY--4.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://python.org)
 
-This repository contains the complete research materials for the manuscript submitted to **Frontiers in Psychology**:
+This repository contains the complete research materials for the manuscript prepared for submission to **Frontiers in Psychology**:
 
 **"Deep Research Engine: Multi-LLM Talent Discovery from Facial Personality Analysis"**
 
@@ -382,4 +383,4 @@ We thank:
 
 **Last Updated**: February 5, 2026
 **Repository**: https://github.com/Talents-kids/facial-personality-talent-discovery
-**Paper Status**: Submitted to Frontiers in Psychology
+**Paper Status**: Preprint (prepared for submission to Frontiers in Psychology)

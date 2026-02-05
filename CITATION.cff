@@ -10,10 +10,10 @@ authors:
 
 date-released: 2026-02-05
 version: "1.0.0"
-doi: "10.5281/zenodo.00000000"  # Replace with actual Zenodo DOI
+doi: "10.5281/zenodo.18500157"
 
 description: |
-  Complete research materials for manuscript submitted to Frontiers in Psychology.
+  Complete research materials for manuscript prepared for submission to Frontiers in Psychology.
 
   This repository contains:
   - Anonymized datasets (N=250 human expert baseline, N=428 equal-feature baseline)
