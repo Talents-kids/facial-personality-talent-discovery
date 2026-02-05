@@ -35,9 +35,8 @@ If you use this code or data in your research, please cite:
 @article{sergeev2026deep_research_engine,
   title={Deep Research Engine: Multi-LLM Talent Discovery from Facial Personality Analysis},
   author={Sergeev, Dmitriy},
-  journal={Frontiers in Psychology},
   year={2026},
-  note={Submitted}
+  note={Preprint}
 }
 ```
 
@@ -221,7 +220,7 @@ python scripts/analyze_equal_feature_baseline.py
 ## 📁 Repository Structure
 
 ```
-frontiers-facial-personality-analysis/
+facial-personality-talent-discovery/
 ├── README.md                                  # This file
 ├── CITATION.cff                               # Machine-readable citation (GitHub)
 ├── LICENSE                                    # CC-BY-4.0 license
@@ -381,6 +380,6 @@ We thank:
 
 ---
 
-**Last Updated**: January 16, 2026
-**Repository**: https://github.com/talents-kids/frontiers-facial-personality-analysis
+**Last Updated**: February 5, 2026
+**Repository**: https://github.com/Talents-kids/facial-personality-talent-discovery
 **Paper Status**: Submitted to Frontiers in Psychology

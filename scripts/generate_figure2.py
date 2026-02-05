@@ -8,7 +8,7 @@ This script generates the 2-panel figure showing:
 - Panel B: Inter-rater reliability (ICC) between two clinical psychologists
 
 Author: Talents.kids Research Team
-Date: 2026-01-16
+Date: 2026-02-05
 """
 
 import pandas as pd

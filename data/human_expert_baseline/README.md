@@ -129,9 +129,8 @@ If using this dataset, please cite the associated manuscript:
 @article{sergeev2026deep_research_engine,
   title={Deep Research Engine: Multi-LLM Talent Discovery from Facial Personality Analysis},
   author={Sergeev, Dmitriy},
-  journal={Frontiers in Psychology},
   year={2026},
-  note={Submitted}
+  note={Preprint}
 }
 ```
 

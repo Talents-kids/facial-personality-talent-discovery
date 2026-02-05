@@ -20,8 +20,8 @@ Complete step-by-step guide to reproduce all results from the Frontiers in Psych
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/talents-kids/frontiers-facial-personality-analysis.git
-cd frontiers-facial-personality-analysis
+git clone https://github.com/Talents-kids/facial-personality-talent-discovery.git
+cd facial-personality-talent-discovery
 ```
 
 ### 2. Install Dependencies
@@ -55,7 +55,7 @@ python scripts/analyze_equal_feature_baseline.py
 
 ```bash
 # Navigate to repository
-cd frontiers-facial-personality-analysis
+cd facial-personality-talent-discovery
 
 # Create virtual environment
 python3 -m venv venv
@@ -294,7 +294,7 @@ FileNotFoundError: data/human_expert_baseline/human_expert_baseline_complete.csv
 **Solution**:
 ```bash
 # Verify you're in correct directory
-pwd  # Should end with: frontiers-facial-personality-analysis
+pwd  # Should end with: facial-personality-talent-discovery
 
 # Check files exist
 ls data/human_expert_baseline/
@@ -483,9 +483,8 @@ If you reproduce or build upon this analysis, please cite:
 @article{sergeev2026deep_research_engine,
   title={Deep Research Engine: Multi-LLM Talent Discovery from Facial Personality Analysis},
   author={Sergeev, Dmitriy},
-  journal={Frontiers in Psychology},
   year={2026},
-  note={Submitted}
+  note={Preprint}
 }
 ```
 
@@ -502,4 +501,4 @@ For issues or questions:
 
 ---
 
-*Last updated: January 16, 2026*
+*Last updated: February 5, 2026*

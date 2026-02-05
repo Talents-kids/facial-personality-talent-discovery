@@ -8,7 +8,7 @@ authors:
     email: "ds@talents.kids"
     orcid: "https://orcid.org/0009-0008-2958-4595"
 
-date-released: 2026-01-16
+date-released: 2026-02-05
 version: "1.0.0"
 doi: "10.5281/zenodo.00000000"  # Replace with actual Zenodo DOI
 
@@ -22,8 +22,8 @@ description: |
   - Publication-quality figures (Figures 2-3, Supplementary S1-S4)
   - Statistical analysis code and results tables (Tables 4-5)
 
-repository-code: "https://github.com/talents-kids/frontiers-facial-personality-analysis"
-repository: "https://github.com/talents-kids/frontiers-facial-personality-analysis"
+repository-code: "https://github.com/Talents-kids/facial-personality-talent-discovery"
+repository: "https://github.com/Talents-kids/facial-personality-talent-discovery"
 
 keywords:
   - "artificial intelligence"
@@ -80,6 +80,5 @@ preferred-citation:
   authors:
     - family-names: "Sergeev"
       given-names: "Dmitriy"
-  journal: "Frontiers in Psychology"
   year: 2026
-  notes: "Submitted"
+  notes: "Preprint"
