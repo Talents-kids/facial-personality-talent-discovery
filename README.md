@@ -83,7 +83,9 @@ This manuscript builds upon our previous research on AI-driven talent discovery 
 
 ### 4. Current Work: Deep Research Engine - Facial Personality Analysis
 
-**Journal**: Frontiers in Psychology (submitted)
+**Status**: Preprint
+
+**ResearchGate**: [researchgate.net/publication/400772910](https://www.researchgate.net/publication/400772910_Deep_Research_Engine_Multi-LLM_Talent_Discovery_from_Facial_Personality_Analysis)
 
 **Focus**:
 - Facial geometric features for personality prediction
